@@ -1,0 +1,25 @@
+POST http://localhost/task_manager/wp-json/project_manager/v1/manager
+
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-20T013835.200.json
+
+###
+
+GET http://localhost/task_manager/wp-json/project_manager/v1/manager
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-20T013727.200.json
+
+###
+
+GET http://localhost/task_manager/wp-json/project_manager/v1/manager
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-20T013637.200.json
+
+###
+
